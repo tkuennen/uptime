@@ -4,7 +4,7 @@ sites:
   - name: www.traviskuennen.com (Landing)
     url: https://www.traviskuennen.com
   - name: til.traviskuennen.com (Today I learned)
-    url: https://tilm.traviskuennen.com
+    url: https://til.traviskuennen.com
 assignees:
   - tkuennen
 user-agent: tkuennen
