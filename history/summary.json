@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/til.traviskuennen.com",
     "slug": "til-traviskuennen-com-today-i-learned",
     "status": "up",
-    "uptime": "1.07%",
-    "uptimeDay": "1.07%",
-    "uptimeWeek": "1.07%",
-    "uptimeMonth": "1.07%",
-    "uptimeYear": "1.07%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 205,
     "timeDay": 205,
     "timeWeek": 205,
     "timeMonth": 205,
     "timeYear": 205,
-    "dailyMinutesDown": {
-      "2022-08-10": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
