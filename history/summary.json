@@ -4,25 +4,27 @@
     "url": "https://www.traviskuennen.com",
     "icon": "https://favicons.githubusercontent.com/www.traviskuennen.com",
     "slug": "www-traviskuennen-com-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 123,
-    "timeWeek": 172,
-    "timeMonth": 168,
-    "timeYear": 170,
-    "dailyMinutesDown": {}
+    "time": 835,
+    "timeDay": 13437,
+    "timeWeek": 3494,
+    "timeMonth": 974,
+    "timeYear": 835,
+    "dailyMinutesDown": {
+      "2022-09-14": 2
+    }
   },
   {
     "name": "til.traviskuennen.com (Today I learned)",
     "url": "https://til.traviskuennen.com",
     "icon": "https://favicons.githubusercontent.com/til.traviskuennen.com",
     "slug": "til-traviskuennen-com-today-i-learned",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 174,
     "timeMonth": 170,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 0
+    }
   }
 ]
