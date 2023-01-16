@@ -5,6 +5,8 @@ sites:
     url: https://www.traviskuennen.com
   - name: til.traviskuennen.com (Today I learned)
     url: https://til.traviskuennen.com
+  - name: jokes.traviskuennen.com
+    url: https://jokes.traviskuennen.com
 assignees:
   - tkuennen
 user-agent: tkuennen
