@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 143,
-    "timeWeek": 201,
-    "timeMonth": 209,
-    "timeYear": 345,
+    "time": 344,
+    "timeDay": 133,
+    "timeWeek": 191,
+    "timeMonth": 206,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 187,
-    "timeWeek": 196,
-    "timeMonth": 191,
+    "timeDay": 147,
+    "timeWeek": 181,
+    "timeMonth": 187,
     "timeYear": 176,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "jokes.traviskuennen.com",
+    "url": "https://jokes.traviskuennen.com",
+    "icon": "https://icons.duckduckgo.com/ip3/jokes.traviskuennen.com.ico",
+    "slug": "jokes-traviskuennen-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 70,
+    "timeDay": 70,
+    "timeWeek": 70,
+    "timeMonth": 70,
+    "timeYear": 70,
     "dailyMinutesDown": {}
   }
 ]
