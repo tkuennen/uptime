@@ -4,53 +4,59 @@
     "url": "https://www.traviskuennen.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.traviskuennen.com.ico",
     "slug": "www-traviskuennen-com-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 128,
-    "timeWeek": 162,
-    "timeMonth": 193,
-    "timeYear": 340,
-    "dailyMinutesDown": {}
+    "time": 367,
+    "timeDay": 5025,
+    "timeWeek": 676,
+    "timeMonth": 336,
+    "timeYear": 367,
+    "dailyMinutesDown": {
+      "2023-01-19": 1
+    }
   },
   {
     "name": "til.traviskuennen.com (Today I learned)",
     "url": "https://til.traviskuennen.com",
     "icon": "https://icons.duckduckgo.com/ip3/til.traviskuennen.com.ico",
     "slug": "til-traviskuennen-com-today-i-learned",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 100,
-    "timeWeek": 157,
-    "timeMonth": 177,
+    "timeDay": 96,
+    "timeWeek": 132,
+    "timeMonth": 173,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-19": 0
+    }
   },
   {
     "name": "jokes.traviskuennen.com",
     "url": "https://jokes.traviskuennen.com",
     "icon": "https://icons.duckduckgo.com/ip3/jokes.traviskuennen.com.ico",
     "slug": "jokes-traviskuennen-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 107,
+    "timeDay": 0,
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-19": 0
+    }
   }
 ]
