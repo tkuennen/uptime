@@ -4,36 +4,40 @@
     "url": "https://www.traviskuennen.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.traviskuennen.com.ico",
     "slug": "www-traviskuennen-com-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 156,
-    "timeWeek": 135,
-    "timeMonth": 145,
-    "timeYear": 261,
-    "dailyMinutesDown": {}
+    "time": 260,
+    "timeDay": 107,
+    "timeWeek": 125,
+    "timeMonth": 143,
+    "timeYear": 260,
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "til.traviskuennen.com (Today I learned)",
     "url": "https://til.traviskuennen.com",
     "icon": "https://icons.duckduckgo.com/ip3/til.traviskuennen.com.ico",
     "slug": "til-traviskuennen-com-today-i-learned",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 168,
-    "timeWeek": 140,
-    "timeMonth": 138,
+    "timeDay": 108,
+    "timeWeek": 129,
+    "timeMonth": 135,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "jokes.traviskuennen.com",
