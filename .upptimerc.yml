@@ -8,6 +8,14 @@ sites:
     url: https://til.traviskuennen.com
   - name: jokes.traviskuennen.com
     url: https://jokes.traviskuennen.com
+  - name: Google
+    url: https://www.google.com
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+  - name: Hacker News
+    url: https://news.ycombinator.com
+  - name: HOME
+    url: https://home.in.kuennen.net
 assignees:
   - tkuennen
 user-agent: tkuennen
