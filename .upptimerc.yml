@@ -16,6 +16,8 @@ sites:
     url: https://news.ycombinator.com
   - name: HOME
     url: https://home.in.kuennen.net
+  - name: Cloud
+    url: https://cloud.in.kuennen.net  
 assignees:
   - tkuennen
 user-agent: tkuennen
