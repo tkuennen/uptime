@@ -122,9 +122,9 @@
     "url": "https://home.in.kuennen.net",
     "icon": "https://icons.duckduckgo.com/ip3/home.in.kuennen.net.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -133,7 +133,9 @@
     "timeWeek": 26,
     "timeMonth": 21,
     "timeYear": 21,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-28": 0
+    }
   },
   {
     "name": "Cloud",
