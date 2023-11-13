@@ -122,10 +122,10 @@
     "url": "https://home.in.kuennen.net",
     "icon": "https://icons.duckduckgo.com/ip3/home.in.kuennen.net.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 20,
@@ -133,16 +133,18 @@
     "timeWeek": 18,
     "timeMonth": 20,
     "timeYear": 20,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-13": 1
+    }
   },
   {
     "name": "Cloud",
     "url": "https://cloud.in.kuennen.net",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.in.kuennen.net.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -151,6 +153,8 @@
     "timeWeek": 213,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-13": 0
+    }
   }
 ]
