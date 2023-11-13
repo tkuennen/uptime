@@ -122,19 +122,19 @@
     "url": "https://home.in.kuennen.net",
     "icon": "https://icons.duckduckgo.com/ip3/home.in.kuennen.net.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 20,
-    "timeDay": 16,
+    "timeDay": 17,
     "timeWeek": 18,
     "timeMonth": 20,
     "timeYear": 20,
     "dailyMinutesDown": {
-      "2023-11-13": 1
+      "2023-11-13": 66
     }
   },
   {
@@ -142,19 +142,19 @@
     "url": "https://cloud.in.kuennen.net",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.in.kuennen.net.ico",
     "slug": "cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 216,
-    "timeWeek": 213,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 404,
+    "timeDay": 2964,
+    "timeWeek": 901,
+    "timeMonth": 404,
+    "timeYear": 404,
     "dailyMinutesDown": {
-      "2023-11-13": 0
+      "2023-11-13": 65
     }
   }
 ]
