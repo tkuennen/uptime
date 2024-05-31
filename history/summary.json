@@ -13,7 +13,7 @@
     "time": 142,
     "timeDay": 127,
     "timeWeek": 97,
-    "timeMonth": 96,
+    "timeMonth": 95,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2023-10-01": 490,
@@ -36,7 +36,7 @@
     "time": 128,
     "timeDay": 111,
     "timeWeek": 90,
-    "timeMonth": 97,
+    "timeMonth": 96,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2023-10-01": 508,
@@ -59,7 +59,7 @@
     "time": 138,
     "timeDay": 133,
     "timeWeek": 103,
-    "timeMonth": 105,
+    "timeMonth": 104,
     "timeYear": 127,
     "dailyMinutesDown": {}
   },
@@ -97,7 +97,7 @@
     "time": 236,
     "timeDay": 199,
     "timeWeek": 205,
-    "timeMonth": 212,
+    "timeMonth": 211,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -115,7 +115,7 @@
     "time": 327,
     "timeDay": 281,
     "timeWeek": 281,
-    "timeMonth": 291,
+    "timeMonth": 290,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2024-05-24": 18,
@@ -153,9 +153,9 @@
     "url": "https://cloud.in.kuennen.net",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.in.kuennen.net.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
@@ -165,6 +165,7 @@
     "timeMonth": 203,
     "timeYear": 239,
     "dailyMinutesDown": {
+      "2024-05-31": 0,
       "2024-04-24": 10,
       "2024-04-23": 1440,
       "2024-04-22": 815,
