@@ -40,19 +40,20 @@
     "url": "https://jokes.traviskuennen.com",
     "icon": "https://icons.duckduckgo.com/ip3/jokes.traviskuennen.com.ico",
     "slug": "jokes-traviskuennen-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "12.41%",
+    "uptimeWeek": "87.49%",
+    "uptimeMonth": "97.12%",
+    "uptimeYear": "99.76%",
     "time": 127,
-    "timeDay": 124,
-    "timeWeek": 171,
-    "timeMonth": 152,
+    "timeDay": 178,
+    "timeWeek": 184,
+    "timeMonth": 156,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-10-04": 38
+      "2024-10-05": 869,
+      "2024-10-04": 393
     }
   },
   {
