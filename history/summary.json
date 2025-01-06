@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 99,
-    "timeWeek": 175,
+    "timeDay": 157,
+    "timeWeek": 147,
     "timeMonth": 160,
     "timeYear": 116,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 71,
-    "timeWeek": 158,
+    "timeDay": 156,
+    "timeWeek": 125,
     "timeMonth": 156,
-    "timeYear": 116,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   },
   {
@@ -42,15 +42,15 @@
     "slug": "jokes-traviskuennen-com",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "24.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "86.51%",
     "uptimeMonth": "96.90%",
     "uptimeYear": "99.50%",
     "time": 135,
-    "timeDay": 224,
-    "timeWeek": 172,
-    "timeMonth": 155,
-    "timeYear": 130,
+    "timeDay": 169,
+    "timeWeek": 149,
+    "timeMonth": 156,
+    "timeYear": 131,
     "dailyMinutesDown": {
       "2025-01-04": 677,
       "2025-01-03": 683,
@@ -70,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 236,
-    "timeDay": 193,
-    "timeWeek": 299,
-    "timeMonth": 301,
-    "timeYear": 244,
+    "timeDay": 293,
+    "timeWeek": 266,
+    "timeMonth": 300,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2024-05-01": 41
     }
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 379,
-    "timeWeek": 439,
-    "timeMonth": 437,
+    "timeDay": 296,
+    "timeWeek": 341,
+    "timeMonth": 432,
     "timeYear": 290,
     "dailyMinutesDown": {}
   },
@@ -108,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 373,
-    "timeDay": 354,
-    "timeWeek": 480,
-    "timeMonth": 466,
+    "timeDay": 379,
+    "timeWeek": 399,
+    "timeMonth": 465,
     "timeYear": 366,
     "dailyMinutesDown": {
       "2024-05-31": 16,
@@ -130,15 +130,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 22,
-    "timeDay": 23,
+    "timeDay": 24,
     "timeWeek": 23,
     "timeMonth": 24,
     "timeYear": 23,
     "dailyMinutesDown": {
       "2024-10-11": 256,
       "2024-05-08": 18,
-      "2024-02-09": 19,
-      "2024-01-06": 22
+      "2024-02-09": 19
     }
   },
   {
@@ -153,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 183,
-    "timeDay": 93,
-    "timeWeek": 94,
-    "timeMonth": 95,
+    "timeDay": 108,
+    "timeWeek": 96,
+    "timeMonth": 96,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2024-10-31": 30,
