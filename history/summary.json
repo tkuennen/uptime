@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.traviskuennen.com.ico",
     "slug": "www-traviskuennen-com-landing",
     "status": "down",
-    "uptime": "99.24%",
+    "uptime": "99.14%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "13.82%",
-    "uptimeMonth": "80.17%",
-    "uptimeYear": "98.35%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.88%",
+    "uptimeYear": "98.07%",
     "time": 149,
-    "timeDay": 229,
-    "timeWeek": 198,
+    "timeDay": 202,
+    "timeWeek": 197,
     "timeMonth": 194,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-05-30": 1086,
+      "2025-05-31": 1088,
+      "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -37,8 +38,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 227,
-    "timeWeek": 188,
+    "timeDay": 169,
+    "timeWeek": 184,
     "timeMonth": 180,
     "timeYear": 174,
     "dailyMinutesDown": {}
@@ -55,8 +56,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 178,
-    "timeDay": 216,
-    "timeWeek": 189,
+    "timeDay": 205,
+    "timeWeek": 192,
     "timeMonth": 210,
     "timeYear": 203,
     "dailyMinutesDown": {
@@ -77,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 283,
-    "timeWeek": 289,
-    "timeMonth": 290,
-    "timeYear": 352,
+    "time": 303,
+    "timeDay": 333,
+    "timeWeek": 291,
+    "timeMonth": 292,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   },
   {
@@ -95,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 472,
-    "timeWeek": 381,
-    "timeMonth": 371,
-    "timeYear": 407,
+    "time": 357,
+    "timeDay": 424,
+    "timeWeek": 399,
+    "timeMonth": 372,
+    "timeYear": 408,
     "dailyMinutesDown": {}
   },
   {
@@ -114,13 +115,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 442,
-    "timeDay": 527,
-    "timeWeek": 413,
-    "timeMonth": 436,
+    "timeDay": 463,
+    "timeWeek": 419,
+    "timeMonth": 437,
     "timeYear": 495,
-    "dailyMinutesDown": {
-      "2024-05-31": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HOME",
@@ -134,7 +133,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 25,
-    "timeDay": 25,
+    "timeDay": 22,
     "timeWeek": 27,
     "timeMonth": 35,
     "timeYear": 28,
@@ -155,16 +154,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 139,
-    "timeDay": 99,
+    "timeDay": 101,
     "timeWeek": 103,
     "timeMonth": 106,
-    "timeYear": 118,
+    "timeYear": 116,
     "dailyMinutesDown": {
       "2025-02-18": 22,
-      "2024-10-31": 30,
-      "2024-05-31": 231
+      "2024-10-31": 30
     }
   }
 ]
