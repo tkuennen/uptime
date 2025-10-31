@@ -36,19 +36,19 @@
     "url": "https://til.traviskuennen.com",
     "icon": "https://icons.duckduckgo.com/ip3/til.traviskuennen.com.ico",
     "slug": "til-traviskuennen-com-today-i-learned",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 279,
-    "timeWeek": 178,
-    "timeMonth": 170,
-    "timeYear": 220,
+    "time": 193,
+    "timeDay": 587,
+    "timeWeek": 268,
+    "timeMonth": 193,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-10-31": 0
+      "2025-10-31": 12
     }
   },
   {
