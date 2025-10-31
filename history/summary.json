@@ -13,7 +13,7 @@
     "time": 173,
     "timeDay": 86,
     "timeWeek": 135,
-    "timeMonth": 150,
+    "timeMonth": 149,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-06-05": 760,
@@ -36,18 +36,20 @@
     "url": "https://til.traviskuennen.com",
     "icon": "https://icons.duckduckgo.com/ip3/til.traviskuennen.com.ico",
     "slug": "til-traviskuennen-com-today-i-learned",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
     "timeDay": 279,
     "timeWeek": 178,
-    "timeMonth": 173,
+    "timeMonth": 170,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-31": 0
+    }
   },
   {
     "name": "jokes.traviskuennen.com",
@@ -63,7 +65,7 @@
     "time": 205,
     "timeDay": 150,
     "timeWeek": 153,
-    "timeMonth": 174,
+    "timeMonth": 172,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2025-01-04": 677,
@@ -84,7 +86,7 @@
     "time": 336,
     "timeDay": 188,
     "timeWeek": 229,
-    "timeMonth": 276,
+    "timeMonth": 275,
     "timeYear": 369,
     "dailyMinutesDown": {}
   },
@@ -102,7 +104,7 @@
     "time": 410,
     "timeDay": 356,
     "timeWeek": 343,
-    "timeMonth": 379,
+    "timeMonth": 377,
     "timeYear": 449,
     "dailyMinutesDown": {}
   },
@@ -120,7 +122,7 @@
     "time": 471,
     "timeDay": 453,
     "timeWeek": 368,
-    "timeMonth": 374,
+    "timeMonth": 373,
     "timeYear": 511,
     "dailyMinutesDown": {}
   },
@@ -168,8 +170,7 @@
       "2025-08-04": 435,
       "2025-08-03": 52,
       "2025-06-26": 725,
-      "2025-02-18": 22,
-      "2024-10-31": 30
+      "2025-02-18": 22
     }
   }
 ]
