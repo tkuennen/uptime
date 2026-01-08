@@ -92,11 +92,11 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 432,
     "timeDay": 341,
@@ -104,7 +104,7 @@
     "timeMonth": 371,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2026-01-08": 9
+      "2026-01-08": 0
     }
   },
   {
