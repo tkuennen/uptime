@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.traviskuennen.com.ico",
     "slug": "www-traviskuennen-com-landing",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 99,
-    "timeWeek": 85,
+    "timeDay": 91,
+    "timeWeek": 92,
     "timeMonth": 99,
-    "timeYear": 155,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 242,
-    "timeWeek": 103,
-    "timeMonth": 101,
-    "timeYear": 176,
+    "timeDay": 93,
+    "timeWeek": 111,
+    "timeMonth": 99,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 247,
-    "timeWeek": 135,
+    "timeDay": 91,
+    "timeWeek": 142,
     "timeMonth": 106,
-    "timeYear": 174,
+    "timeYear": 172,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 96,
-    "timeWeek": 98,
-    "timeMonth": 114,
-    "timeYear": 235,
+    "timeDay": 101,
+    "timeWeek": 99,
+    "timeMonth": 112,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2025-12-21": 24
     }
@@ -85,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 310,
-    "timeWeek": 337,
-    "timeMonth": 338,
-    "timeYear": 361,
+    "timeDay": 303,
+    "timeWeek": 304,
+    "timeMonth": 330,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2026-01-08": 16
     }
@@ -105,10 +105,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 426,
-    "timeDay": 697,
-    "timeWeek": 320,
-    "timeMonth": 317,
-    "timeYear": 359,
+    "timeDay": 249,
+    "timeWeek": 319,
+    "timeMonth": 314,
+    "timeYear": 358,
     "dailyMinutesDown": {}
   },
   {
@@ -123,7 +123,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 30,
-    "timeDay": 10,
+    "timeDay": 12,
     "timeWeek": 13,
     "timeMonth": 17,
     "timeYear": 28,
@@ -144,8 +144,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 133,
-    "timeDay": 90,
-    "timeWeek": 93,
+    "timeDay": 100,
+    "timeWeek": 95,
     "timeMonth": 96,
     "timeYear": 142,
     "dailyMinutesDown": {
