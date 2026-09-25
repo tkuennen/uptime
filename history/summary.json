@@ -139,17 +139,17 @@
     "url": "https://cloud.in.kuennen.net",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.in.kuennen.net.ico",
     "slug": "cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "98.41%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.05%",
-    "time": 145,
-    "timeDay": 93,
-    "timeWeek": 98,
-    "timeMonth": 103,
-    "timeYear": 161,
+    "uptimeDay": "96.56%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "96.04%",
+    "time": 191,
+    "timeDay": 10911,
+    "timeWeek": 2802,
+    "timeMonth": 849,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2025-11-02": 471,
       "2026-01-31": 218,
@@ -168,7 +168,7 @@
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 543,
-      "2026-09-24": 0
+      "2026-09-24": 50
     }
   }
 ]
